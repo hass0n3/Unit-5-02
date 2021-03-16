@@ -1,5 +1,3 @@
 body {
-        background-image: url("https://cdn.dribbble.com/users/1018278/screenshots/3870893/hello_world.gif");
-        background-repeat: no-repeat;
-        background-size:100%;
+        background-image: u("https://cdn.dribbble.com/users/1018278/screenshots/3870893/hello_world.gif")   background-repeat: no-repeat  background-size:100%;
 }
