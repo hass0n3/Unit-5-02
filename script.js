@@ -12,8 +12,8 @@ function button2 () {
 
 document.getElementById('add').addEventListener('click', diskCord)
 function diskCord () {
-  alert('ERROR DO NOT CLICK OK')
+  alert('Hello red coler "ok"')
   document.getElementById('back').style.backgroundColor = 'red'
 }
 
-// change text & ackground colours through buttons & add warning button.
+// change text & ackground colours through buttons and add warning button.
